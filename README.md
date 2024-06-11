@@ -14,13 +14,14 @@ contents--
    e. Calculator
 
    f. Expression conversion(All 6)
-3. Queue
+2. Queue
 
    a. Singly queue(All operations)
 
    b. Doubly queue(All operations)
 
    c. Circular queue(All operations)
+   
 3.Linked List
 
    a. Singly ll (All operations)
